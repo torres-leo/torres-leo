@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leo Torres</h1>
-<h3 align="center">A Web App developer from Nicaragua &#127470;&#127475</h3>
+<h3 align="center">A Web App developer from Nicaragua</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
