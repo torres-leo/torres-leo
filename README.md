@@ -34,6 +34,11 @@
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
 
 
+### 📄&nbsp;Linters
+
+![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)&nbsp;
+![PRETTIER](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)&nbsp;
+
 
 ### 🧰 &nbsp;Version Controll & Tools 
 
