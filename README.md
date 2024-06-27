@@ -23,7 +23,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2335495e.svg?style=for-the-badge&logo=tailwindcss&logoColor=%234FC08D)&nbsp;
-![Sass](https://img.shields.io/badge/sass-%711352.svg?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![Sass](https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
 ### 🗃 &nbsp;Databases
