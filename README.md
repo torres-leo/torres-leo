@@ -6,7 +6,7 @@
 👨‍💻 &nbsp;I'm a Web Developer, passionate about technology, motivated to learn and get more knowledge that will help me to develop my professional career, with good communication skills and adaptation to different work schemes.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 ✍️ &nbsp;In my free time, I love to play video games.\
-✉️ &nbsp;You can shoot me an email at leojts24@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at leojts24@gmail.com! I'll try to respond as soon as I can.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
