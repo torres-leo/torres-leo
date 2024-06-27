@@ -74,6 +74,4 @@
        alt="snake" /></a>
 </div>
 
-<p align="center">
-  Made with <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Markdown" />
-</p>
+<img align="center" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Markdown" />
