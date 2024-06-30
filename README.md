@@ -11,6 +11,11 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/leo-torres-solorzano/"><img src="https://img.shields.io/badge/-Leo%20Torres-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:leojts24@gmail.com"><img src="https://img.shields.io/badge/-Leo Torres-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -61,10 +66,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/leo-torres-solorzano/"><img src="https://img.shields.io/badge/-Leo%20Torres-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:leojts24@gmail.com"><img src="https://img.shields.io/badge/-Leo Torres-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
 
 ### 🐍 &nbsp;That's How Commits move ...
 
