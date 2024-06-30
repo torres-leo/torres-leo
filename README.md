@@ -11,6 +11,8 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+
+### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/leo-torres-solorzano/"><img src="https://img.shields.io/badge/-Leo%20Torres-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:leojts24@gmail.com"><img src="https://img.shields.io/badge/-Leo Torres-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -61,10 +63,6 @@
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-
-
-
-### 🤝🏻 &nbsp;Connect with Me
 
 
 ### 🐍 &nbsp;That's How Commits move ...
