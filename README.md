@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leo Torres</h1>
 <h3 align="center">A Web Developer From Nicaragua</h3>
 
-<a align="center" target="_blank" href="https://portfolio-leo-torres.vercel.app/">My Portfolio</a>
+<a align="center" target="blank" href="https://portfolio-leo-torres.vercel.app/">My Portfolio</a>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
