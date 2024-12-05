@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leo Torres</h1>
-<h3 align="center">A Web Developer From Nicaragua</h3>
+<h3 align="center">Just a Web Developer from Nicaragua 😎</h3>
 
 <h3 align="center"> 
   <a target="blank" href="https://portfolio-leo-torres.vercel.app/">My Portfolio</a>
